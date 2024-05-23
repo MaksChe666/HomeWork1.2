@@ -9,7 +9,7 @@ public class Main {
                 bonus = total / 100;
             }
             balance = balance + bonus + total;
-            System.out.println(balance + bonus);
+            System.out.println(balance);
         }
     }
 }
